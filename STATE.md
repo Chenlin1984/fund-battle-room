@@ -24,7 +24,7 @@ _最後更新：2026-04-01_
 - ⬜ `utils/fetcher.py` 基金數據爬蟲 — 待開發
 - ⬜ `utils/macro.py` FRED 景氣象限邏輯 — 待開發
 - ✅ GitHub Repo 初始化完成：https://github.com/Chenlin1984/fund-battle-room
-- ⬜ Streamlit Cloud 串接 — 待手動操作（見下方指引）
+- ✅ Streamlit Cloud 部署完成：https://fund-battle-room-t8xcgqvn2bdgaygjaiodkk.streamlit.app
 
 ## 待修復 Bug 清單
 
