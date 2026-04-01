@@ -2,6 +2,9 @@
 
 _最後更新：2026-04-01_
 
+## GitHub Repo
+`https://github.com/Chenlin1984/fund-battle-room` (Public, branch: master)
+
 ## 核心檔案簡介
 
 | 檔案 | 說明 |
@@ -20,7 +23,8 @@ _最後更新：2026-04-01_
 - ⬜ `app.py` 總經面板 UI — 待開發
 - ⬜ `utils/fetcher.py` 基金數據爬蟲 — 待開發
 - ⬜ `utils/macro.py` FRED 景氣象限邏輯 — 待開發
-- ⬜ GitHub Repo 初始化 + Streamlit Cloud 串接 — 待執行
+- ✅ GitHub Repo 初始化完成：https://github.com/Chenlin1984/fund-battle-room
+- ⬜ Streamlit Cloud 串接 — 待手動操作（見下方指引）
 
 ## 待修復 Bug 清單
 
